@@ -1,20 +1,23 @@
 # Mobile application developer take home test
 
-The goal of this task is to assess your proficiency in software engineering that is related to the daily work that we do at Fastamoni. Please follow the instructions below to complete the assessment.
+This is a mobile application with the following screens
 
-Create a mobile application consisting of 
-
-- a login screen
-- a screen to create a new user,
-- a homepage displaying User full name
-- a screen to edit user detail
-- any other screen of your choice.
+a login screen
+a screen to create a new user,
+a homepage displaying User full name
+a screen to edit user detail
+And a settings screen where user can logout from.
 
 # Functionality
 
--  Include appropriate methods to connect the screen above with make API calls to https://reqres.in for the respective screens
--  Make use of provider (For Flutter) and redux (React native) as state manager
+- API calls to https://reqres.in
+- Redux Toolkit for state management and side effect
 
-Share the link to the GitHub repo and an APK in your submission.
+# Env Variables
+The following variables should be placed in the .env file
 
-Good luck
+EXPO_PUBLIC_API_URL
+EXPO_PUBLIC_API_KEY
+
+# Download link
+[Download APK]{https://file.com}
