@@ -20,4 +20,4 @@ EXPO_PUBLIC_API_URL
 EXPO_PUBLIC_API_KEY
 
 # Download link
-[Download APK]{https://file.com}
+[Download APK](https://expo.dev/artifacts/eas/ooQ2Bg44uLVZpYZJScWfaV.apk)
